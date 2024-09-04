@@ -1,2 +1,0 @@
-# django-model_project
- 
